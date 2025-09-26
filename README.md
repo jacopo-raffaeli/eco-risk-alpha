@@ -1,4 +1,4 @@
-# Eco-Risk Alpha
+# eco-risk-alpha
 
 ## Project Overview
 
