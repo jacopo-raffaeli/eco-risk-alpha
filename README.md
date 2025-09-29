@@ -2,9 +2,9 @@
 
 ## Team
 
-- [@ Letizia Cazzaniga](https://github.com/LetiziaC14)
-- [@ Angelique Girod]() 
-- [@ Marco Piazza](https://github.com/piazzam)
+- [Letizia Cazzaniga](https://github.com/LetiziaC14)
+- [Angelique Girod]() 
+- [Marco Piazza](https://github.com/piazzam)
 
 
 ## Project Overview
