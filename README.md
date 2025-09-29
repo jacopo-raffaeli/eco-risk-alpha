@@ -3,7 +3,7 @@
 ## Team
 
 - [Letizia Cazzaniga](https://github.com/LetiziaC14)
-- [Angelique Girod] 
+- Angelique Girod
 - [Marco Piazza](https://github.com/piazzam)
 - [Jacopo Raffaeli](https://github.com/jacopo-raffaeli)
 
