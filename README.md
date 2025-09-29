@@ -1,5 +1,12 @@
 # eco-risk-alpha
 
+## Team
+
+- [@ Letizia Cazzaniga](https://github.com/LetiziaC14)
+- [@ Angelique Girod]() 
+- [@ Marco Piazza](https://github.com/piazzam)
+
+
 ## Project Overview
 
 **Eco-Risk Alpha** is a data science project developed as part of a summer school on sustainable finance and economics. The project investigates the relationship between corporate ESG performance and credit risk, focusing on how ESG factors can influence credit spreads and counterparty risk in interest-rate swap portfolios.
@@ -42,6 +49,6 @@ The project workflow is structured around the following tasks:
    Train predictive models to estimate CDS spreads, evaluate performance with cross-validation, and compute model-implied CVA.  
 
 6. **Insight Synthesis**  
-   Compare actual versus model-implied CVA and derive the green-premium measure across the dataset.  
+   Compare actual versus model-implied CVA and derive the green-premium measure across the dataset.
 
 
