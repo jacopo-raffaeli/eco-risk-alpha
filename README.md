@@ -7,6 +7,7 @@
 - [Marco Piazza](https://github.com/piazzam)
 - [Jacopo Raffaeli](https://github.com/jacopo-raffaeli)
 
+---
 
 ## Project Overview
 
